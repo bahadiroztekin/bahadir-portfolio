@@ -1,8 +1,3 @@
-import project1 from "../assets/portfolio-logo.png";
-import project2 from "../assets/portfolio-logo.png";
-import project3 from "../assets/portfolio-logo.png";
-import project4 from "../assets/portfolio-logo.png";
-//dummy
 
 export const HERO_CONTENT = `I am an ambitious full-stack developer with a solid background in both front-end and back-end technologies. I specialize in React.js, Java Vaadin, 
 HTML/CSS, and Tailwind for crafting engaging user interfaces, while my back-end expertise includes Java Spring, PHP Laravel, PL/SQL, and PostgreSQL. Additionally, 
@@ -44,7 +39,6 @@ export const PROJECTS = [
 
     {
         title: "Warehouse Digital Twin",
-        image: project2,
         description:
             "Developed a warehouse solution that creates a personalized digital twin of the user's warehouse using augmented " +
             "reality. The system maps and transfers information to a mobile device, allowing users to run operations such as AR navigation within the digital twin. ",
@@ -52,7 +46,6 @@ export const PROJECTS = [
     },
     {
         title: "Heart Attack Prediction",
-        image: project3,
         description:
             "Developed a Python-based machine learning classification program that predicts the likelihood of a heart attack based on " +
             "blood test data. The system processes input values, classifies them using trained models, and provides predictions. The " +
@@ -61,14 +54,12 @@ export const PROJECTS = [
     },
     {
         title: "Portfolio Website",
-        image: project3,
         description:
             "A personal portfolio website showcasing projects, skills, and contact information.",
         technologies: ["HTML", "CSS", "React.js", "Tailwind", "FramerMotion"],
     },
     {
         title: "E-Commerce Website",
-        image: project4,
         description:
             "A fully functional e-commerce website with features like product listing, shopping cart.",
         technologies: ["HTML", "CSS", "JavaScript", "mySQL"],
