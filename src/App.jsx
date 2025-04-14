@@ -22,7 +22,7 @@ export default function App() {
                 <Technologies/>
                 <Experience/>
                 <Projects/>
-                <Contact/>
+
             </div>
         </div>
     );

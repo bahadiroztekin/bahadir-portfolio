@@ -67,9 +67,9 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-    emailPart1: "bahadir.",
-    emailPart2: "oztekin9",
-    emailPart3: "gmail",
-    emailPart4: "com",
-    address: "Ankara, Türkiye",
+    emailPart1: "",
+    emailPart2: "",
+    emailPart3: "",
+    emailPart4: "",
+    address: "",
 };
