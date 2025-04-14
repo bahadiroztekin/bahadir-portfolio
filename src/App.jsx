@@ -5,7 +5,6 @@ import About from "./components/About.jsx";
 import Technologies from "./components/Technologies.jsx";
 import Experience from "./components/Experience.jsx";
 import Projects from "./components/Projects.jsx";
-import Contact from "./components/Contact.jsx";
 
 export default function App() {
     return (
